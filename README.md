@@ -10,9 +10,9 @@ Deep Learning approaches available on google drive in form of Android App
 ## Results
 
 <p float="centre">
-  <img src="results/result1.jpg" width="300" height="300" />
-  <img src="results/result2.jpg" width="300" height="300" /> 
-  <img src="results/result3.jpg" width="300" height="300" /> 
+  <img src="results/result1.jpg" width="250" height="250" />
+  <img src="results/result2.jpg" width="250" height="250" /> 
+  <img src="results/result3.jpg" width="250" height="250" /> 
 </p>
 
 

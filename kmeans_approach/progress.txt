@@ -1,0 +1,15 @@
+kmeans : Label 4 used (Had to make it automatic, choose only thode label which represent major products)
+
+kmc
+
+medianFiltering
+
+erode(9,9)
+dilate(7,7)
+
+contours_on_dilate
+
+merge nearby contours (50 pixel)
+
+draw minArea bounding box
+draw convex hull

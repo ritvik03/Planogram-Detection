@@ -7,6 +7,11 @@ Selective requires no. of possible boxes as input.
 Watershed seems to be working good unsupervised. More test results need to be seen.
 Deep Learning approaches available on google drive in form of Android App 
 
+## Usage
+- Previosuly generated code is in watershed/allcodes.py
+- Final code for Honeywell Hackathon is present in final_count_code.ipynb
+
+
 ## Results
 
 <p float="centre">
